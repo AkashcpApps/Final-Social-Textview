@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final Social Textview</string>
+    <string name="read_more">show more</string>
+    <string name="read_less">\u0020 show less</string>
+</resources>
